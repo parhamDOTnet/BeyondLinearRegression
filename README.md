@@ -1,4 +1,5 @@
 # Beyond Linear Regression
+![Simple Quadratic](images/Banner.PNG)
 ## Can Linear Regression Learn Nonlinear Behavior?
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
